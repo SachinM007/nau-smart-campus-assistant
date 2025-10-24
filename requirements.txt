@@ -4,3 +4,5 @@ tiktoken
 chromadb
 faiss-cpu
 streamlit
+langchain-community
+beautifulsoup4

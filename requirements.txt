@@ -1,8 +1,7 @@
 langchain
-openai
-tiktoken
-chromadb
+sentence-transformers
 faiss-cpu
 streamlit
 langchain-community
-beautifulsoup4
+langchain-huggingface
+-e .    
